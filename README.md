@@ -12,6 +12,17 @@ A generic corona tracking Web App with stats pulled from [COVID-19 API](https://
 
 A configurable React component wrapper around CountUp.js.
 
+### react-chartjs-2 -> Line Chart 
+
+![Line Chart](https://github.com/OmarAbdelwahab/Pandemo/blob/master/images/line-chart.png)
+
+A line chart generated from global COVID-19 stats.
+
+### react-chartjs-2 -> Bar Chart
+
+![Bar Chart](https://github.com/OmarAbdelwahab/Pandemo/blob/master/images/bar-chart.png)
+
+A Bar chart generated from COVID-19 stats for each country separately.
 
 ## Languages 
 
@@ -25,7 +36,9 @@ A configurable React component wrapper around CountUp.js.
 
 <img align="left" alt="Material UI" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
 
-<br />  
+<br /> 
+
+<br />
 
 ```React.js, Chart.js, axios, react-countup, classnames, react-chartjs-2, Material UI, React Hooks```
 
@@ -34,6 +47,8 @@ A configurable React component wrapper around CountUp.js.
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 
 <img align="left" alt="Cmder" width="26px" src="https://github.com/cmderdev/cmder/blob/master/icons/cmder.ico" />
+
+<br />
 
 <br />
 
