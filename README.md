@@ -12,11 +12,15 @@ A generic corona tracking Web App with stats pulled from [COVID-19 API](https://
 
 A configurable React component wrapper around CountUp.js.
 
+***
+
 ### react-chartjs-2 -> Line Chart 
 
 ![Line Chart](https://github.com/OmarAbdelwahab/Pandemo/blob/master/images/line-chart.png)
 
 A line chart generated from global COVID-19 stats.
+
+***
 
 ### react-chartjs-2 -> Bar Chart
 
