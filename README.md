@@ -26,7 +26,7 @@ A line chart generated from global COVID-19 stats.
 
 ![Bar Chart](https://github.com/OmarAbdelwahab/Pandemo/blob/master/images/bar-chart.png)
 
-A Bar chart generated from COVID-19 stats for each country separately.
+A bar chart generated from COVID-19 stats for each country separately.
 
 ## Languages 
 
